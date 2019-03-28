@@ -1,0 +1,38 @@
+
+
+#page1{
+
+background-image: url('newimage.jpg');
+ background-repeat: no-repeat;
+ background-size:100%;
+
+
+}
+
+#header1{
+
+ 	font-family: "Lucida Console", Monaco, monospace;
+	 text-align: center;
+	 margin-top: 10%;
+	color: white;
+	font-size: 40px;
+	}
+#header1:first-letter{
+
+	font-size: 200%;
+	color: red;
+
+}
+
+	
+ select{
+    
+    width:50%;
+     margin-left : 25%;
+     height: 20px;
+  }
+.sp1{
+	font-size: 200%;
+	color: red;
+}
+

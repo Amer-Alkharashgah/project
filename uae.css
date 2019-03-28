@@ -1,0 +1,86 @@
+img{
+
+	height: 500px;
+	width: 100%;
+}
+header h1{
+	color: white;
+	display: inline-block;
+}
+header h2{
+	color: white;
+	float: right;
+	margin-right: 50px;
+	margin-top:30px;
+}
+header input{
+
+	width: 200px;
+	margin-left: 16px;	
+}
+header h3{
+
+		float: right;
+	margin-right: 35%;
+	margin-top:30px;
+}
+#h1{
+
+	color: red;
+}
+
+ol{
+
+	display: none;
+	color: white;
+}
+header{
+
+	background-color: #cccccc;
+
+}
+
+#UAEbody{
+	background-image: url("UAE.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+	background-color: #373737;
+
+}
+
+.famdish{
+
+color: #C15730;
+float: left;
+margin-left: 20%;
+display: inline-block;
+
+}
+
+.famousplace{
+
+display: inline-block;
+color: #C15730;
+margin-left: 50px;
+
+}
+
+.famtrad{
+
+display: inline-block;
+color: #C15730;
+margin-left: 50px;
+float: left;
+
+}
+
+#inp{
+
+	margin-left: 70px;
+}
+
+li{
+
+	padding: 10px;
+}

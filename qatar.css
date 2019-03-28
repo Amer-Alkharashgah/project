@@ -1,0 +1,191 @@
+/*img{
+
+	height: 500px;
+	width: 90%;
+	margin-left:60px; 
+}
+header h1{
+	color: #0386FA;
+	display: inline-block;
+}
+header h2{
+	color: #0386FA;
+	float: right;
+	margin-right: 50px;
+	margin-top:30px;
+}
+header input{
+
+	width: 200px;
+	margin-left: 16px;	
+}
+header h3{
+
+	float: right;
+	margin-right: 35%;
+	margin-top:30px;
+}
+#h1{
+
+	color:red;
+}
+
+ol{
+
+	display: none;
+	color: white;
+}
+header{
+
+	background-color: #DFDFDF;
+}
+
+#UAEbody{
+
+	background-color: #767575	;
+
+}
+
+.famdish{
+
+color: #FAE303;
+float: left;
+margin-left: 30%;
+display: inline-block;
+
+}
+
+.famousplace{
+
+display: inline-block;
+color: #FAE303;
+margin-left: 50px;
+
+}
+
+.famtrad{
+
+display: inline-block;
+color: #FAE303;
+margin-left: 50px;
+float: left;
+
+}
+
+#inp{
+
+	margin-left: 70px;
+}
+
+li{
+
+	padding: 10px;
+}
+*/
+
+#qaBody{
+
+
+background-image: url("travelll.jpg");
+
+background-repeat:no-repeat;
+
+background-size: 100%;
+
+ font-family: Georgia, "Times New Roman", Times, serif;
+
+ font-size: 15px;
+
+
+}
+
+
+label {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: 150px;
+  font-style: italic;
+  color: #FF4500;
+}
+
+input {
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  outline: 0;
+  padding: 10px;
+  width: 250px;
+  box-sizing: border-box;
+  background-color: #e8eeef;
+  color: #8a97a0;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+  margin-bottom: 30px
+}
+
+input:focus {
+  background: #d2d9dd;
+}
+h1{
+
+	 font-style: italic;
+	 color: #B22222;
+
+}
+img{
+
+height: 50px;
+width: 50px;
+border-radius: 20px;
+margin-left: 230px;
+display: inline-block;
+float: left;
+cursor: pointer;
+}
+h3{
+
+
+	float: left;
+	margin-left: 10px;
+	color:#DC143C; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
